@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\bin\Debug\net6.0\DZ_Task 54.exe
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\bin\Debug\net6.0\DZ_Task 54.deps.json
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\bin\Debug\net6.0\DZ_Task 54.runtimeconfig.json
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\bin\Debug\net6.0\DZ_Task 54.dll
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\bin\Debug\net6.0\DZ_Task 54.pdb
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.dll
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\refint\DZ_Task 54.dll
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.pdb
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\DZ_Task 54.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\DZ_Task 54\obj\Debug\net6.0\ref\DZ_Task 54.dll
