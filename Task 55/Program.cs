@@ -40,7 +40,7 @@ int[,] MatrixTurn ( int[,] matrix )
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[j,i] = matrix[i,j];
+            matrix2[j,i] = matrix[i,j];
         }
     }
     return matrix2;
