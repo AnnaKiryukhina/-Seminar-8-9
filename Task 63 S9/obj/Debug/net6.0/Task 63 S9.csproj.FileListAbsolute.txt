@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\bin\Debug\net6.0\Task 63 S9.exe
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\bin\Debug\net6.0\Task 63 S9.deps.json
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\bin\Debug\net6.0\Task 63 S9.runtimeconfig.json
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\bin\Debug\net6.0\Task 63 S9.dll
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\bin\Debug\net6.0\Task 63 S9.pdb
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.dll
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\refint\Task 63 S9.dll
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.pdb
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\Task 63 S9.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Учеба\С# Seminar 8,9\Task 63 S9\obj\Debug\net6.0\ref\Task 63 S9.dll
